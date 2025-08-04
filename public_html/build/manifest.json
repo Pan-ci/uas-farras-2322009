@@ -1,0 +1,34 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-ZgVgzsFc.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-eyaYaVcx.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app-COzdR64j.css"
+    ]
+  },
+  "resources/js/components/create-cart.js": {
+    "file": "assets/create-cart-Dd03iouT.js",
+    "name": "create-cart",
+    "src": "resources/js/components/create-cart.js",
+    "isEntry": true
+  },
+  "resources/js/components/create-transaction-cart.js": {
+    "file": "assets/create-transaction-cart-YAL8JgJ2.js",
+    "name": "create-transaction-cart",
+    "src": "resources/js/components/create-transaction-cart.js",
+    "isEntry": true
+  },
+  "resources/js/components/create-transaction.js": {
+    "file": "assets/create-transaction-BR7HZqlo.js",
+    "name": "create-transaction",
+    "src": "resources/js/components/create-transaction.js",
+    "isEntry": true
+  }
+}
